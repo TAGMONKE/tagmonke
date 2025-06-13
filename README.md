@@ -1,4 +1,4 @@
-# I'm Leah.
+# I'm Juan Leoson.
 ## I like to code a lot.
 
 ### Heres some languages i know (very well)
